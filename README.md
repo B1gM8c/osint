@@ -49,7 +49,7 @@ Osint Framework（开源情报查询框架）即通过在互联网中公开的�
 
 再或者，你是一名记者，通过OSINT框架，你可以更快的获得一些公开情报，甚至可以完成一些取证相关的工作。
 
-![image-20220208091540553](C:\Users\66396\Documents\GitHub\osint\img\image-20220208091540553.png)
+![image-20220208091540553](https://raw.githubusercontent.com/B1gM8c/osint/main/img/image-20220208091540553.png?token=GHSAT0AAAAAABMABFBRWMG2MSCLHE64IF54YQBYZQQ)
 
 我们拿其中的一个工具，举个例子，我们想找一下`fancypig`这个用户名注册过哪些社交网站，我们可以看这里，这里提供了很多相关工具
 
@@ -57,11 +57,11 @@ Osint Framework（开源情报查询框架）即通过在互联网中公开的�
 
 我们选择第一个`Namechk`工具，这里会打开一个新的网站，目测这里是爬虫实现的，超过90个社交网站账户收集
 
-![image-20220208091618668](C:\Users\66396\Documents\GitHub\osint\img\image-20220208091618668.png)
+![image-20220208091618668](https://raw.githubusercontent.com/B1gM8c/osint/main/img/image-20220208091618668.png?token=GHSAT0AAAAAABMABFBROGNNNWHFR5XFYK76YQBY2CQ)
 
 我们这里进行人机身份验证后，点右侧的搜索按钮，然后你就可以看到`fancypig`注册过哪些社交平台，比方说抖音TikTok
 
-![image-20220208091633649](C:\Users\66396\Documents\GitHub\osint\img\image-20220208091633649.png)
+![image-20220208091633649](https://raw.githubusercontent.com/B1gM8c/osint/main/img/image-20220208091633649.png?token=GHSAT0AAAAAABMABFBQVCMQOIZXWJSEDNS6YQBY2LA)
 
 
 
